@@ -4,3 +4,6 @@ Console.WriteLine("Grocery List:");
       {
             Console.WriteLine("- " + item);
        }
+
+       
+groceries.Add(""Eggs", "Apples"");
